@@ -37,8 +37,8 @@ Excelシート上に3次元迷路を構築し、VBAを用いてQ学習アルゴ�
 本プログラムの実際の動作や、操作パネル、Q学習のプロセス、迷路や重みの入力、最終的な結果表示については、以下の動画で確認できる。
 * [Q学習を用いた3次元迷路探索デモンストレーション](https://youtu.be/dtFFJx3qzhI)
 
-![image](https://github.com/user-attachments/assets/37c12bba-5fc6-42f0-97cd-28e3227cdedf)
 学習前
+![image]([https://github.com/user-attachments/assets/a20b02ff-8c30-4d73-b34f-b795bec3a95e](https://github.com/RyutaAkashi/3D-maze-search-using-Q-learning/blob/main/result/before.png))
 
-![image](https://github.com/user-attachments/assets/a20b02ff-8c30-4d73-b34f-b795bec3a95e)
 学習後
+![image]([https://github.com/user-attachments/assets/a20b02ff-8c30-4d73-b34f-b795bec3a95e](https://github.com/RyutaAkashi/3D-maze-search-using-Q-learning/blob/main/result/after.png))
